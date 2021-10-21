@@ -1,4 +1,4 @@
-### Hi there, my name is Bruno Facco Almeida 👋
+### Hello, my name is Bruno Facco Almeida 👋
 
 <!--
 **Facco-Bruno/Facco-Bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
