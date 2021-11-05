@@ -11,5 +11,5 @@
 - 💬 Ask me about everything.
 - 📫 How to reach me: I have to email, my personal email is faccobruno98@gamil.com and institutional email from my university bruno.facco@acad.ufsm.br.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to accumulate courses and do them and record time.
+- ⚡ Fun fact: I like to accumulate courses and do them in record time.
 
