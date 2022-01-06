@@ -11,5 +11,4 @@
 - 💬 My personal CV site is https://facco-bruno.github.io/CVSITE/.
 - 📫 How to reach me: I have to email, my personal email is faccobruno98@gamil.com and institutional email from my university bruno.facco@acad.ufsm.br.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to do courses in record time.
 
