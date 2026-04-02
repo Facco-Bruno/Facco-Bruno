@@ -4,7 +4,7 @@
 **Facco-Bruno/Facco-Bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at Prime Hire as a ML & AI Specialist.
+- 🔭 I’m currently working as a ML & AI Specialist.
 - 🌱 I’m currently focus in AI Study.
 - 👯 I’m looking to collaborate on projects that brings new information and perpectives about data.
 - 🤔 I’m looking for help with AI Engineer Path.
